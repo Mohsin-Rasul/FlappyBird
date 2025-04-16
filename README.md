@@ -56,8 +56,3 @@ Pull requests are welcome! If you have suggestions or improvements, feel free to
 
 
 Created with ❤️ by [Mohsin Rasul]
-```
-
----
-
-Let me know if you'd like this tailored with your GitHub username or other personal touches (like a logo or badge)!
