@@ -8,6 +8,10 @@ A modern, GUI-based clone of the classic **Flappy Bird** game built in Java usin
 - Java Swing (GUI)
 - Custom Graphics and Image Handling
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/bd90d7f5-36b6-4da1-8ea4-d23ee7647082)
+
+
 ## 📂 Folder Structure
 
 ```
