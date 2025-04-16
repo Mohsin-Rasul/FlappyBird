@@ -2,18 +2,6 @@
 
 A modern, GUI-based clone of the classic **Flappy Bird** game built in Java using **Swing**. This version features a clean interface, smooth gameplay, high score saving, custom bird and pipe graphics, and a responsive "Play Again" system.
 
-## 🚀 Features
-
-- 🎮 Smooth gameplay at 60 FPS
-- 🖼️ Custom images for bird, pipes, and background
-- 💾 High score saved across sessions
-- 🧠 Simple AI-ready structure (for future additions)
-- ✨ Modern-looking UI with styled buttons
-
-## 📸 Screenshots
-
-*(Add your game screenshots here)*
-
 ## 🛠️ Technologies Used
 
 - Java SE
