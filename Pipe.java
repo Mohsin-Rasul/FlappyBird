@@ -15,8 +15,7 @@ public class Pipe {
     private static Image pipeImage;
 
     static {
-        // Load the image once (you can adjust the path)
-        pipeImage = new ImageIcon("C:\\Users\\PC\\OneDrive\\Desktop\\FlappyBird\\pipe4.png").getImage();
+        pipeImage = new ImageIcon("C:\\Users\\PC\\OneDrive\\Desktop\\FlappyBird\\pipe5.png").getImage();
     }
 
     public Pipe(int x, int screenHeight) {
@@ -34,13 +33,11 @@ public class Pipe {
     }
 
     public void draw(Graphics g) {
-        // Top pipe (flipped vertically)
         Graphics2D g2d = (Graphics2D) g;
-        g2d.drawImage(pipeImage, x, topHeight, width, -topHeight, null); // flipped
+        g2d.drawImage(pipeImage, x, topHeight, width, -topHeight, null); 
 
-        // Bottom pipe (normal)
         int bottomY = topHeight + gap;
-        int bottomHeight = screenHeight - bottomY - 0; // 100 is ground height
+        int bottomHeight = screenHeight - bottomY - 0; 
         g.drawImage(pipeImage, x, bottomY, width, bottomHeight, null);
     }
 
